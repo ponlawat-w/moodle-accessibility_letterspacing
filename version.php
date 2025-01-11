@@ -26,7 +26,7 @@ defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'accessibility_letterspacing';
 $plugin->release = '1.0.0';
-$plugin->version = 2024082401;
+$plugin->version = 2025011100;
 $plugin->requires = 2022041900;
 $plugin->maturity = MATURITY_STABLE;
 $plugin->dependencies = [
