@@ -1,4 +1,4 @@
-# Font Size Accessibility Widget #
+# Letter Spacing Accessibility Widget #
 
 Requires [local_accessiblity](https://github.com/ponlawat-w/moodle-local_accessibility) to be installed and enabled.
 
@@ -29,7 +29,7 @@ to complete the installation from the command line.
 
 ## License ##
 
-2023 Ponlawat Weerapanpisit <ponlawat_w@outlook.co.th>
+2025 Ponlawat Weerapanpisit <ponlawat_w@outlook.co.th>
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
