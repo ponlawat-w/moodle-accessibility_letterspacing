@@ -30,7 +30,6 @@ use local_accessibility\widgets\rangewidget;
  * Letter spacing accessibility widget definition
  */
 class letterspacing extends rangewidget {
-
     /**
      * Constructor
      */
